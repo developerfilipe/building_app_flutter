@@ -7,7 +7,7 @@ Tela temporária criada com Flutter e animação Lottie, utilizando Clean Archit
 A aplicação exibe uma animação centralizada representando um desenvolvedor em construção, com o texto "Aguarde..." enquanto os módulos principais do sistema são implementados. Toda a arquitetura está organizada com base em DDD e Clean Architecture.
 
 ## Estrutura Base do Projeto
-
+```
 lib/
 ├── app/
 │   └── app_widget.dart
@@ -26,7 +26,7 @@ lib/
             ├── pages/
             │   └── construction_page.dart
             └── widgets/
-
+```
 ## Instalação e Execução
 
 ### 1. Clonar o Repositório
