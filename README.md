@@ -1,4 +1,4 @@
-# app_em_construcao
+# building_app
 
 Tela temporária criada com Flutter e animação Lottie, utilizando Clean Architecture. Serve como placeholder visual durante o desenvolvimento dos módulos reais do aplicativo de finanças pessoais.
 
